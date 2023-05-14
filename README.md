@@ -1,2 +1,3 @@
 # Invader_imitate
-This VisualStudioProject was created for distribution to juniors.
+It was created for distribution to juniors.
+VisualStudio2015 environment and DXlib must be prepared.
