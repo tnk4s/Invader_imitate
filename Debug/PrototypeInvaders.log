@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\tnkda\documents\visual studio 2015\projects\prototypeinvaders\main.cpp(167): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\tnkda\documents\visual studio 2015\projects\prototypeinvaders\main.cpp(185): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  PrototypeInvaders.vcxproj -> C:\Users\tnkda\Documents\Visual Studio 2015\Projects\PrototypeInvaders\Debug\PrototypeInvaders.exe
+  PrototypeInvaders.vcxproj -> C:\Users\tnkda\Documents\Visual Studio 2015\Projects\PrototypeInvaders\Debug\PrototypeInvaders.pdb (Full PDB)
